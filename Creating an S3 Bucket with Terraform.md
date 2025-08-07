@@ -22,7 +22,7 @@ Next, I will run the following commands
     
 <h2>Terraform fmt</h2>
 
-terraform fmt
+    terraform fmt
 
 <img width="627" height="115" alt="image" src="https://github.com/user-attachments/assets/bbe93533-d8a6-4226-88fe-97b10c0db493" />
 
