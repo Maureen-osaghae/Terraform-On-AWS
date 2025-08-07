@@ -1,6 +1,6 @@
 <h1>Creating an S3 Bucket with Terraform</h1>
 
-Deploying the Updated Code
+Deploying the Code
 
 First things first, make sure you configure your AWS CLI
 
