@@ -1,13 +1,7 @@
 variable "aws_region" {
-  description = "us-east-1"
+  description = "The aws region to deploy in."
   type        = string
   default     = "us-east-1"
-}
-
-variable "aws_s3_bucket_name" {
-  description = "The unique name of the AWS bucket."
-  type        = string
-  default     = "maureen-osahage-9900"
 }
 
 variable "aws_tagging" {
@@ -19,3 +13,7 @@ variable "aws_tagging" {
   }
 }
 
+variable "desired_azs" {
+  type    = list(string)
+  default = ["us-east-1f", "us-east-1a", "us-east-1b", "us-east-1c", "us-east-1d"]
+}
