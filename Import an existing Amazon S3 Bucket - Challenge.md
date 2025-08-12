@@ -6,6 +6,18 @@ For our scenario, let’s pretend that you’ve already completed this course, a
 
 It’s imperative that you not change any of the bucket’s existing settings/configurations! You are only importing the existing resource, not applying any changes to that bucket.
 
+You’ve completed this step when you get the following message:
+
+<img width="517" height="230" alt="image" src="https://github.com/user-attachments/assets/9f00f83d-acf5-4657-89ba-3e547f2eafbf" />
+
+Once you’ve important the bucket successfully, go ahead and delete it with terraform destroy!
+
+You’ve completed this step when you get the following message:
+
+<img width="624" height="377" alt="image" src="https://github.com/user-attachments/assets/8b307215-d758-41ef-8a75-153aa225d2ec" />
+
+
+
     aws configure
 first we list our buckets
     
