@@ -7,8 +7,8 @@ For our scenario, let’s pretend that you’ve already completed this course, a
 It’s imperative that you not change any of the bucket’s existing settings/configurations! You are only importing the existing resource, not applying any changes to that bucket.
 
     aws configure
-
-    first we list our buckets
+first we list our buckets
+    
     aws s3api list-buckets
 
   <img width="591" height="228" alt="image" src="https://github.com/user-attachments/assets/f3837241-9316-45b6-a876-2d55a1bd83e6" />
